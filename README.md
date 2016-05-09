@@ -1,2 +1,3 @@
 # purple-facebook
-extracted from pidgin
+
+extracted from pidgin, for ktp-accounts-kcm
